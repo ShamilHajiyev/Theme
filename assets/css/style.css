@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+    color: #333;
+    display: block;
+}
+
+input{
+    outline: none;
+}
+
+.container{
+    padding: 0 2rem;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+    font-size: 45px;
+}
+
+button{
+    background-color: white;
+}
+
+#group{
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    width: fit-content;
+}
+
+#icon{
+    position: fixed;
+    top: 13px;
+    right: 17px;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 100%;
+    background-color: black;
+    color: rgb(249, 241, 231);
+    cursor: pointer;
+}
