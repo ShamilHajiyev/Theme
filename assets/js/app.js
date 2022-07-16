@@ -1,23 +1,4 @@
 var body = document.body;
-// function Display() {
-//     var isVisible = confirm();
-//     if (isVisible) {
-//         body.style.display = 'block';
-//     }
-//     else {
-//         body.style.display = 'none';
-//     }
-// }
-
-
-// var age = Number(prompt('Enter your age'));
-// if(age>=18){
-//     Display();
-// }
-// else {
-//     body.style.display = 'none';
-//     alert('Not old enough!');
-// }
 
 function Add() {
     var input = document.getElementById('input').value;
